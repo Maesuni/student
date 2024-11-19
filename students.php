@@ -1,5 +1,5 @@
 <?php
-include('db.php');
+include('db_config.php');
 
 // Query to fetch all students
 $sql = "SELECT * FROM students";
