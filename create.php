@@ -1,5 +1,5 @@
 <?php
-include('db.php');
+include('db_config.php');
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // Collect form data
